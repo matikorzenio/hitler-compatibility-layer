@@ -7,9 +7,12 @@
 #define ODER or
 #define NEIN not
 #define JA true
+#define JAWOHL true
+#define JAWOHLNATURLICH true
 #define WAHR true
 #define RICHTIG true
 #define FALSCH false
+#define FEGELEIN false
 #define FUR for
 #define KLASSE class
 #define STRUKTUR struct
@@ -45,3 +48,13 @@
 #define SIEBEN 7
 #define ACHT 8
 #define NEUN 9
+#define ganzeZahl int
+#define SCHWEBEN float
+#define AUSCHWITZ exit
+#define LEERE void
+#define konsoleAus cout
+#define konsoleIn cin
+#define bekommenLinie getline
+#define REICHGANZEZAHL uint64
+#define ohneVorzeichen unsigned
+#define UmwandlungInGanzzahligenDummenJuden atoi
